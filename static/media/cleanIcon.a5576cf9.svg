@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="110px" height="110px" viewBox="15 15 110 110" enable-background="new 15 15 110 110" xml:space="preserve">
+<filter  width="140.9%" height="140.9%" id="c" filterUnits="objectBoundingBox" y="-20.5%" x="-20.5%">
+	<feGaussianBlur  stdDeviation="7.5" result="shadowBlurInner1" in="SourceAlpha"></feGaussianBlur>
+	<feOffset  result="shadowOffsetInner1" in="shadowBlurInner1"></feOffset>
+	<feComposite  k3="1" k2="-1" operator="arithmetic" in2="SourceAlpha" result="shadowInnerInner1" in="shadowOffsetInner1">
+		</feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0" in="shadowInnerInner1"></feColorMatrix>
+</filter>
+<g>
+	<path id="b_1_" fill="#F7F7F7" d="M15,15h110v110H15V15z"/>
+</g>
+<g filter="url(#c)">
+	<path id="b_3_" d="M15,15h110v110H15V15z"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M125,125H15V15h110V125z M21,119h98V21H21V119z"/>
+</g>
+</svg>
