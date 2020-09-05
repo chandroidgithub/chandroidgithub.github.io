@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34d8e199.chunk.css",
+    "main.js": "/static/js/main.25648a24.chunk.js",
+    "main.js.map": "/static/js/main.25648a24.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c22c8184.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c22c8184.js.map",
+    "static/css/2.b9312890.chunk.css": "/static/css/2.b9312890.chunk.css",
+    "static/js/2.69104ff2.chunk.js": "/static/js/2.69104ff2.chunk.js",
+    "static/js/2.69104ff2.chunk.js.map": "/static/js/2.69104ff2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.22699f076dfdb2efbb852e64d3644a46.js": "/precache-manifest.22699f076dfdb2efbb852e64d3644a46.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b9312890.chunk.css.map": "/static/css/2.b9312890.chunk.css.map",
+    "static/css/main.34d8e199.chunk.css.map": "/static/css/main.34d8e199.chunk.css.map",
+    "static/js/2.69104ff2.chunk.js.LICENSE.txt": "/static/js/2.69104ff2.chunk.js.LICENSE.txt",
+    "static/media/ReviewImages.jpg": "/static/media/ReviewImages.947f8bfd.jpg",
+    "static/media/SticPicsLogo.gif": "/static/media/SticPicsLogo.6a07f6df.gif",
+    "static/media/addressIcon.svg": "/static/media/addressIcon.70483546.svg",
+    "static/media/boldIcon.svg": "/static/media/boldIcon.0232f87f.svg",
+    "static/media/classicIcon.svg": "/static/media/classicIcon.e878b3bf.svg",
+    "static/media/cleanIcon.svg": "/static/media/cleanIcon.a5576cf9.svg",
+    "static/media/everIcon.svg": "/static/media/everIcon.c8e13f53.svg",
+    "static/media/facebook.svg": "/static/media/facebook.c1e76960.svg",
+    "static/media/frame2.mp4": "/static/media/frame2.fb36c901.mp4",
+    "static/media/SelectPhoto.scss": "/static/media/gallery Wall-B&W.44242cba.jpeg",
+    "static/media/googleDrive.svg": "/static/media/googleDrive.7fea10b7.svg",
+    "static/media/instagram.svg": "/static/media/instagram.fc23b902.svg",
+    "static/media/play.svg": "/static/media/play.71c285a1.svg",
+    "static/media/upload-icon.svg": "/static/media/upload-icon.a9c05ac3.svg",
+    "static/media/wallImage.jpg": "/static/media/wallImage.6de7e0a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c22c8184.js",
+    "static/css/2.b9312890.chunk.css",
+    "static/js/2.69104ff2.chunk.js",
+    "static/css/main.34d8e199.chunk.css",
+    "static/js/main.25648a24.chunk.js"
+  ]
+}
